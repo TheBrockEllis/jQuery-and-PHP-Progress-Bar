@@ -1,5 +1,5 @@
 <?
-require_once("object.inc");
+require_once("object.php");
 ?>
 
 <!DOCTYPE html>
