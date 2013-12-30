@@ -1,4 +1,4 @@
-<?
+<?php
 class ProgressObj{
 
 var $increment;
